@@ -1,17 +1,24 @@
-> Why do I have a folder named ".expo" in my project?
+# Toront Art App (React native)
 
-The ".expo" folder is created when an Expo project is started using "expo start" command.
+## Concept
+You can find public art in Toront.
 
-> What does the "packager-info.json" file contain?
+## Feature
+* You can search by Title or Location or Artist
+* You can find art in Map View.
 
-The "packager-info.json" file contains port numbers and process PIDs that are used to serve the application to the mobile device/simulator.
 
-> What does the "settings.json" file contain?
+## Usage
+You can find art in List or Map.
 
-The "settings.json" file contains the server configuration that is used to serve the application manifest.
+![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/60034714/149069347-2ef57571-8c76-4fcf-a880-f1f83dc0eea1.gif)
 
-> Should I commit the ".expo" folder?
+You can search by Title or Location or Artist.
 
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
 
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/60034714/149069666-722cb407-f0b4-46b7-9c96-cb9931a2ba83.gif)
+
+You can see a detail of each art.
+
+
+![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/60034714/149069801-e147f33a-1a9c-4ad0-ae97-ba9f0d42e203.gif)
